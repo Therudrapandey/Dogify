@@ -1,2 +1,1 @@
-# Dogify
-Dogify
+TinDog Starting Files
